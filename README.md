@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mohammad Abu-Alhayjaa  
-🚀 Building high-performance Flutter applications with clean architecture and scalable state management.<br>
-📚 Learning advanced animations (Lottie, Rive), performance optimization, and backend integrations.<br>
-🤝 Open to mobile or full-stack projects with strong structure and maintainable codebases.<br>
-✨ I refactor messy code into clean, reliable architecture before my coffee cools. ☕  
+💡 Building high-performance Flutter applications with clean architecture and smooth user experiences.<br>
+📘 Exploring advanced animations (Lottie, Rive), performance tuning, and backend integrations.<br>
+🤝 Open to mobile or full-stack collaborations with strong, scalable structure.<br>
+☕ Turning unorganized codebases into clean, maintainable architecture is my favorite morning routine.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-abu-alhayjaa)  
