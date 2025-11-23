@@ -1,4 +1,6 @@
 <div align="center">
+  <div style="max-width: 800px; text-align: left; display: inline-block;">
+    
 # 👋 Hi, I'm Mohammad Abu-Alhayjaa  
 
 💡 Building high-performance Flutter applications with clean architecture and smooth user experiences.<br>
@@ -40,5 +42,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohammad-Abu-Alhayjaa&icon=6&color=0)](https://visitcount.itsvg.in)
 
-
+  </div>
 </div>
