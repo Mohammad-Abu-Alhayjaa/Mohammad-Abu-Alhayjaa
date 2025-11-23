@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 Hi, I'm Mohammad Abu-Alhayjaa  
 
 <div align="center">
@@ -40,4 +41,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohammad-Abu-Alhayjaa&icon=6&color=0)](https://visitcount.itsvg.in)
 
+</div>
 </div>
