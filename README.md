@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 Hi, I'm Mohammad Abu-Alhayjaa  
 💡 Building high-performance Flutter applications with clean architecture and smooth user experiences.<br>
 📘 Exploring advanced animations (Lottie, Rive), performance tuning, and backend integrations.<br>
@@ -37,3 +38,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohammad-Abu-Alhayjaa&icon=6&color=0)](https://visitcount.itsvg.in)
+
+</div>
