@@ -1,5 +1,7 @@
-<div align="center">
+
 # 👋 Hi, I'm Mohammad Abu-Alhayjaa  
+
+<div align="center">
 💡 Building high-performance Flutter applications with clean architecture and smooth user experiences.<br>
 📘 Exploring advanced animations (Lottie, Rive), performance tuning, and backend integrations.<br>
 🤝 Open to mobile or full-stack collaborations with strong, scalable structure.<br>
