@@ -1,12 +1,14 @@
 <div align="center">
   <div style="max-width: 800px; text-align: left; display: inline-block;">
-    
+
 # 👋 Hi, I'm Mohammad Abu-Alhayjaa  
 
+<div style="padding-left: 20px;">
 💡 Building high-performance Flutter applications with clean architecture and smooth user experiences.<br>
 📘 Exploring advanced animations (Lottie, Rive), performance tuning, and backend integrations.<br>
 🤝 Open to mobile or full-stack collaborations with strong, scalable structure.<br>
 ☕ Turning unorganized codebases into clean, maintainable architecture is my favorite morning routine.  
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-abu-alhayjaa)  
